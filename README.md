@@ -35,7 +35,7 @@ Just your average code enjoyer.
 
 <br />
 
-📊 **Where my time goes:**
+📊 **Where my time goes:** (coming soon)
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
