@@ -30,6 +30,9 @@ I love coding and bla bla bla...
 
 📊 **Where my time goes:**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
