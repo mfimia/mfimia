@@ -1,18 +1,21 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I love coding and bla bla bla... 
+Your average code enjoyer. (I AM NOT THE GUY ON THE GIF)
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br />
 
-### [Portfolio website](https://mfimia.github.io/portfolio/index.html "mfimia website")
+**My places:**
 
-### [LinkedIn profile](https://www.linkedin.com/in/martinfimia/ "mfimia LinkedIn")
+- [Portfolio website](https://mfimia.github.io/portfolio/index.html "mfimia website")
+- [LinkedIn profile](https://www.linkedin.com/in/martinfimia/ "mfimia LinkedIn")
+- [Email](mailto:martin.fimia.osuna@hotmail.com)
 
-### Reach me at my [email](mailto:martin.fimia.osuna@hotmail.com)
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br />
 
 **My stack:**  
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -28,6 +31,8 @@ I love coding and bla bla bla...
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/phaser/phaser.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br />
+
 📊 **Where my time goes:**
 <!--START_SECTION:waka-->
 ```text
@@ -36,5 +41,6 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-📈 Github stats
+<br />
+<br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mfimia&show_icons=true&theme=gotham" alt="mfimia github stats" />
