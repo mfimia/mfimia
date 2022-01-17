@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-I am your average code enjoyer. 
+Just your average code enjoyer. 
 
-**Not the guy on the gif*
+**I'm not the guy on the gif*
 
 <br />
 
