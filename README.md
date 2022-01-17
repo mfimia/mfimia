@@ -1,8 +1,10 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Your average code enjoyer. (I AM NOT THE GUY ON THE GIF)
-
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+Your average code enjoyer. 
+
+**I'm not the guy on the gif*
 
 <br />
 
