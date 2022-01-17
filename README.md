@@ -4,7 +4,7 @@
 
 Just your average code enjoyer. 
 
-**I'm not the guy on the gif*
+*I'm not the guy on the gif*
 
 <br />
 
