@@ -45,4 +45,4 @@ No Activity tracked this Week
 
 <br />
 <br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mfimia&show_icons=true&theme=gotham" alt="mfimia github stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mfimia&show_icons=true&theme=github_dark" alt="mfimia github stats" />
