@@ -35,7 +35,7 @@ Just your average code enjoyer.
 
 <br />
 
-📊 **Where my time goes:**
+📊 **Weekly track:**
 <!--START_SECTION:waka-->
 ```text
 TypeScript   2 hrs 51 mins   ████████████▒░░░░░░░░░░░░   49.29 % 
