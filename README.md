@@ -40,7 +40,7 @@ Just your average code enjoyer.
 
 ```text
 JavaScript   13 hrs 12 mins  ████████████████▓░░░░░░░░   66.36 %
-TypeScript   6 hrs 22 mins   ████████░░░░░░░░░░░░░░░░░   32.03 %
+TypeScript   6 hrs 22 mins   ████████░░░░░░░░░░░░░░░░░   32.04 %
 Git Config   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 Docker       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
