@@ -39,12 +39,12 @@ Just your average code enjoyer.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   9 hrs 25 mins   █████████████▓░░░░░░░░░░░   55.16 %
-TypeScript   6 hrs 34 mins   █████████▓░░░░░░░░░░░░░░░   38.50 %
-Bash         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-HTML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+TypeScript   10 hrs 23 mins  ████████████▒░░░░░░░░░░░░   49.40 %
+JavaScript   9 hrs 19 mins   ███████████░░░░░░░░░░░░░░   44.29 %
+Markdown     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Bash         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+HTML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
