@@ -10,7 +10,7 @@ Just your average code enjoyer.
 
 **My places:**
 
-- [Portfolio website](https://mfimia.github.io/portfolio/index.html "mfimia website")
+- [Portfolio website](https://mfimia.vercel.app/ "mfimia website")
 - [LinkedIn profile](https://www.linkedin.com/in/martinfimia/ "mfimia LinkedIn")
 - [Email](mailto:martin.fimia.osuna@hotmail.com)
 
