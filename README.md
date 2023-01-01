@@ -39,8 +39,8 @@ Just your average code enjoyer.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 11 mins   █████████████▓░░░░░░░░░░░   55.05 %
-Other        2 hrs 25 mins   ██████████▒░░░░░░░░░░░░░░   41.88 %
+TypeScript   8 hrs 59 mins   ███████████████████▒░░░░░   77.42 %
+Other        2 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
 ```
 
 <!--END_SECTION:waka-->
