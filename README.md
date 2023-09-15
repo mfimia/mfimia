@@ -39,10 +39,8 @@ Just your average code enjoyer.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   15 mins         ████████████████████▓░░░░   82.25 %
-TSQL         2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
-SCSS         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+SCSS         0 secs          ██████████████▓░░░░░░░░░░   58.78 %
+TypeScript   0 secs          ██████████▒░░░░░░░░░░░░░░   41.22 %
 ```
 
 <!--END_SECTION:waka-->
