@@ -39,8 +39,7 @@ Just your average code enjoyer.
 <!--START_SECTION:waka-->
 
 ```txt
-SCSS         0 secs          ██████████████▓░░░░░░░░░░   58.78 %
-TypeScript   0 secs          ██████████▒░░░░░░░░░░░░░░   41.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
