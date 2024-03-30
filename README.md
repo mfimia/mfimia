@@ -39,7 +39,7 @@ Just your average code enjoyer.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 3 mins    ██████████████████████░░░   88.07 %
+TypeScript   5 hrs 3 mins    ██████████████████████░░░   88.06 %
 Solidity     19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
 JSON         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
 Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
