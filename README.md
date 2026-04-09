@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Martín%20Fimia&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Senior%20Full-Stack%20Engineer%20·%20Tech%20Entrepreneur&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Martín%20Fimia&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20·%20Tech%20Entrepreneur&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 <br/>
 
