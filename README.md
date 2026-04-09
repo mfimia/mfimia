@@ -74,7 +74,7 @@ If you're working on something interesting, I'd love to hear about it.
 
 <br/>
 
-<a href="https://mfimia.vercel.app/">
+<a href="https://mfimia.com/">
   <img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge" />
 </a>
 &nbsp;&nbsp;
