@@ -1,38 +1,89 @@
-### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Martín%20Fimia&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Senior%20Full-Stack%20Engineer%20·%20Tech%20Entrepreneur&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-Just your average code enjoyer.
+<br/>
 
-_(I'm not the guy on the gif)_
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Distributed+Systems+%26+Cloud+Architecture;Performance+Engineering;Startup+Builder;Systems+Thinking+%3E+Tool+Memorization" alt="Typing SVG" /></a>
 
-<br />
+</div>
 
-**My places:**
+---
 
-- [Portfolio website](https://mfimia.vercel.app/ "mfimia website")
-- [LinkedIn profile](https://www.linkedin.com/in/martinfimia/ "mfimia LinkedIn")
-- [Email](mailto:martin.fimia.osuna@hotmail.com)
+<br/>
 
-<br />
+<img align="right" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="45%" alt="Snake animation" />
 
-**My stack:**
+### About
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<br />
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/phaser/phaser.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+I build systems that scale. From cloud architecture to frontend
+performance, I focus on understanding how things work at a
+fundamental level — not memorizing tools, but knowing how to
+design, break, and rebuild them.
 
-<br />
+The stack changes. The principles don't.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mfimia&show_icons=true&theme=github_dark" alt="mfimia github stats" />
+<br clear="both"/>
+
+---
+
+### What I'm about
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Distributed Systems & Cloud Architecture**
+<br/>
+<sub>Designing resilient infrastructure that handles real-world load</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Performance Engineering**
+<br/>
+<sub>Making things fast, from the server to the last pixel on screen</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Startup Building**
+<br/>
+<sub>Turning ideas into products, products into companies</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Systems Thinking**
+<br/>
+<sub>Understanding the fundamentals that outlast any framework</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### Let's connect
+
+If you're working on something interesting, I'd love to hear about it.
+
+<br/>
+
+<a href="https://mfimia.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/martinfimia/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge" />
+</a>
+
+<br/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer" width="100%" />
