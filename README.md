@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-Just your average code enjoyer. 
+Just your average code enjoyer.
 
-*(I'm not the guy on the gif)*
+_(I'm not the guy on the gif)_
 
 <br />
 
@@ -16,7 +16,7 @@ Just your average code enjoyer.
 
 <br />
 
-**My stack:**  
+**My stack:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -35,16 +35,4 @@ Just your average code enjoyer.
 
 <br />
 
-📊 **Weekly track:**
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
-<br />
-<br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mfimia&show_icons=true&theme=github_dark" alt="mfimia github stats" />
